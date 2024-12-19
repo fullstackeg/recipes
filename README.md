@@ -1,7 +1,7 @@
 ﻿# recipes
 Website for Sharing recipes, and getting recipes
 
-#Techs uses:
+# Techs uses:
 - Angular
 - Angular Material
 - Tailwind
@@ -9,7 +9,7 @@ Website for Sharing recipes, and getting recipes
 - Spring Security
 - JWT
 
-#Author:
+# Author:
 - Full Stack
 - facebook: https://www.facebook.com/fullstackeg
 - instagram: https://www.instagram.com/fullstackeg
